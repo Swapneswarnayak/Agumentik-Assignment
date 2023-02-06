@@ -1,5 +1,5 @@
 # Agumentik Task
-    ->Deployed Link-- https://agumentik-task.netlify.app/
+    https://agumentik-task.netlify.app/
 
 
 ## Landing-Page-->

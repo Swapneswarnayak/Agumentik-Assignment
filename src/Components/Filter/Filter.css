@@ -1,0 +1,21 @@
+/* #filter{
+    width: 20%;
+    height: 500px;
+    background-color: rgb(223, 222, 222);
+    border-radius: 8px;
+    text-align: left;
+    padding: 0px 0px 0px 50px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
+} */
+#colour p{
+    display: inline;
+}
+#gender p{
+    display: inline;
+}
+#price p{
+    display: inline;
+}
+#type p{
+    display: inline;
+}

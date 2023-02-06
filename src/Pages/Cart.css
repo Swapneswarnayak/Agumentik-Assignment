@@ -1,0 +1,22 @@
+#cart{
+    width: 50%;
+    margin: 20px auto;
+    /* height: 100vh; */
+    background-color: #dda7dd;
+    padding: 5px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border-radius: 10px;
+}
+@media screen and (max-width: 600px) {
+    
+    #cart{
+        width: 70%;
+    }
+    
+  }
+  @media screen and (max-width: 480px) {
+    
+    #cart{
+        width: 90%;
+    }
+  }
